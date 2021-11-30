@@ -1,0 +1,14 @@
+{
+  "name": "123gtd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jondoesntgit/123gtd",
+  "author": "Jonathan Wheeler <jonathan.m.wheeler@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "d3": "^7.1.1"
+  },
+  "devDependencies": {
+    "snowpack": "^3.8.8"
+  }
+}
